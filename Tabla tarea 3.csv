@@ -1,0 +1,235 @@
+prom_sueldos;gender;anio;departamento
+60588,55;F;2002;Customer Service
+66075,16;M;2002;Customer Service
+60260,34;F;2002;Development
+65813,59;M;2002;Development
+70989,36;F;2002;Finance
+76027,38;M;2002;Finance
+61449,24;M;2002;Human Resources
+56501,56;F;2002;Human Resources
+71984,04;F;2002;Marketing
+77525,24;M;2002;Marketing
+65608,67;M;2002;Production
+60467,83;F;2002;Production
+57629,97;F;2002;Quality Management
+63650,47;M;2002;Quality Management
+60821,5;F;2002;Research
+66510,26;M;2002;Research
+87113,29;M;2002;Sales
+81513,38;F;2002;Sales
+63213,53;M;2001;Customer Service
+58277,64;F;2001;Customer Service
+58424,18;F;2001;Development
+63674,12;M;2001;Development
+69267,87;F;2001;Finance
+74134,44;M;2001;Finance
+54962,18;F;2001;Human Resources
+59150,86;M;2001;Human Resources
+70363,8;F;2001;Marketing
+75364,26;M;2001;Marketing
+58403,74;F;2001;Production
+63642,94;M;2001;Production
+61657,05;M;2001;Quality Management
+55946,66;F;2001;Quality Management
+64006,19;M;2001;Research
+58615,66;F;2001;Research
+79553,59;F;2001;Sales
+85173,86;M;2001;Sales
+61004,78;M;2000;Customer Service
+56243,48;F;2000;Customer Service
+61562,74;M;2000;Development
+56297,66;F;2000;Development
+72095,66;M;2000;Finance
+67159,97;F;2000;Finance
+52911,55;F;2000;Human Resources
+57180,79;M;2000;Human Resources
+68347,8;F;2000;Marketing
+73248,01;M;2000;Marketing
+61605,93;M;2000;Production
+56190,65;F;2000;Production
+59421,57;M;2000;Quality Management
+53863,33;F;2000;Quality Management
+61922,1;M;2000;Research
+56551,97;F;2000;Research
+77469,37;F;2000;Sales
+83072,84;M;2000;Sales
+54233,42;F;1999;Customer Service
+55340,74;M;1999;Customer Service
+56026,79;M;1999;Development
+54359,81;F;1999;Development
+66548,04;M;1999;Finance
+65253,63;F;1999;Finance
+50823,26;F;1999;Human Resources
+51602,1;M;1999;Human Resources
+66361,3;F;1999;Marketing
+67594,58;M;1999;Marketing
+54263,07;F;1999;Production
+55989,69;M;1999;Production
+53884,69;M;1999;Quality Management
+51940,34;F;1999;Quality Management
+56362,66;M;1999;Research
+54685,89;F;1999;Research
+77413,62;M;1999;Sales
+75489,05;F;1999;Sales
+53280,83;F;1998;Customer Service
+53932,73;M;1998;Customer Service
+54768,2;M;1998;Development
+53232,17;F;1998;Development
+64103,31;F;1998;Finance
+65170,73;M;1998;Finance
+49703,58;F;1998;Human Resources
+50250,6;M;1998;Human Resources
+65582,1;F;1998;Marketing
+66332,51;M;1998;Marketing
+53345,36;F;1998;Production
+54637,81;M;1998;Production
+51014,05;F;1998;Quality Management
+52442,07;M;1998;Quality Management
+55092,79;M;1998;Research
+53413,43;F;1998;Research
+76140,2;M;1998;Sales
+74629,33;F;1998;Sales
+55053,94;M;1997;Customer Service
+52383,74;F;1997;Customer Service
+55603,05;M;1997;Development
+52164,69;F;1997;Development
+62924,74;F;1997;Finance
+66108,29;M;1997;Finance
+51046,97;M;1997;Human Resources
+48764,45;F;1997;Human Resources
+64402,33;F;1997;Marketing
+67253,18;M;1997;Marketing
+52261,68;F;1997;Production
+55491,81;M;1997;Production
+50224,05;F;1997;Quality Management
+53448,81;M;1997;Quality Management
+52388,12;F;1997;Research
+55838,86;M;1997;Research
+73673,18;F;1997;Sales
+77031,56;M;1997;Sales
+54163,48;M;1996;Customer Service
+51306,14;F;1996;Customer Service
+51329,42;F;1996;Development
+54600,03;M;1996;Development
+62151,46;F;1996;Finance
+65447,59;M;1996;Finance
+47813,78;F;1996;Human Resources
+50041,42;M;1996;Human Resources
+66467,56;M;1996;Marketing
+63678,94;F;1996;Marketing
+54461,46;M;1996;Production
+51357,65;F;1996;Production
+52484,49;M;1996;Quality Management
+49262,54;F;1996;Quality Management
+54667,78;M;1996;Research
+51633,22;F;1996;Research
+72539,82;F;1996;Sales
+76194,49;M;1996;Sales
+53229,88;M;1995;Customer Service
+50205,51;F;1995;Customer Service
+50397,55;F;1995;Development
+53570,37;M;1995;Development
+64161,47;M;1995;Finance
+61103,05;F;1995;Finance
+49161,39;M;1995;Human Resources
+47084,66;F;1995;Human Resources
+65377,05;M;1995;Marketing
+63080,14;F;1995;Marketing
+50276,05;F;1995;Production
+53527,26;M;1995;Production
+48211,26;F;1995;Quality Management
+51656,11;M;1995;Quality Management
+50420,71;F;1995;Research
+53567,51;M;1995;Research
+71582,74;F;1995;Sales
+75392,29;M;1995;Sales
+49391,65;F;1994;Customer Service
+52224,26;M;1994;Customer Service
+49572,48;F;1994;Development
+52597,5;M;1994;Development
+62926,06;M;1994;Finance
+60829,02;F;1994;Finance
+46372,79;F;1994;Human Resources
+48020,06;M;1994;Human Resources
+61673,05;F;1994;Marketing
+64547,55;M;1994;Marketing
+52590,55;M;1994;Production
+49349,21;F;1994;Production
+50517,67;M;1994;Quality Management
+47438,31;F;1994;Quality Management
+49742,1;F;1994;Research
+52723,48;M;1994;Research
+70368,89;F;1994;Sales
+74672,25;M;1994;Sales
+48566,83;F;1993;Customer Service
+48258,55;M;1993;Customer Service
+48511,89;F;1993;Development
+48628,51;M;1993;Development
+59036,87;M;1993;Finance
+59552,54;F;1993;Finance
+45188,98;F;1993;Human Resources
+44419,21;M;1993;Human Resources
+60436,85;M;1993;Marketing
+60879,25;F;1993;Marketing
+48482,06;F;1993;Production
+48724,61;M;1993;Production
+46487,68;M;1993;Quality Management
+46704,83;F;1993;Quality Management
+48624,61;M;1993;Research
+48588,29;F;1993;Research
+70643,11;M;1993;Sales
+69328,25;F;1993;Sales
+46912,41;F;1992;Customer Service
+47072,03;M;1992;Customer Service
+47389,42;F;1992;Development
+47629,32;M;1992;Development
+58294,62;M;1992;Finance
+58536,58;F;1992;Finance
+43814,29;F;1992;Human Resources
+43316,85;M;1992;Human Resources
+59755,19;F;1992;Marketing
+59743,08;M;1992;Marketing
+47214,69;F;1992;Production
+47582,76;M;1992;Production
+45813,23;M;1992;Quality Management
+45900,7;F;1992;Quality Management
+47635,95;F;1992;Research
+47339,88;M;1992;Research
+69628,75;M;1992;Sales
+68333,47;F;1992;Sales
+45064,92;F;1991;Customer Service
+45559,61;M;1991;Customer Service
+46596,06;M;1991;Development
+46623,26;F;1991;Development
+56426,53;M;1991;Finance
+58490,73;F;1991;Finance
+42164,28;M;1991;Human Resources
+42486,17;F;1991;Human Resources
+59232,75;M;1991;Marketing
+57670,2;F;1991;Marketing
+46309,19;F;1991;Production
+46446,64;M;1991;Production
+45221,94;M;1991;Quality Management
+44595,49;F;1991;Quality Management
+46979,08;F;1991;Research
+46843,79;M;1991;Research
+67270,69;F;1991;Sales
+68846,84;M;1991;Sales
+44414,06;M;1990;Customer Service
+44814,29;F;1990;Customer Service
+45764,32;M;1990;Development
+45610,85;F;1990;Development
+57643,56;M;1990;Finance
+56502,18;F;1990;Finance
+40998,23;M;1990;Human Resources
+40972,99;F;1990;Human Resources
+57358,31;F;1990;Marketing
+58895,85;M;1990;Marketing
+45138,16;F;1990;Production
+45269,05;M;1990;Production
+42991,8;M;1990;Quality Management
+43468,01;F;1990;Quality Management
+47005,88;F;1990;Research
+46638,34;M;1990;Research
+67448,7;F;1990;Sales
+67413,76;M;1990;Sales
